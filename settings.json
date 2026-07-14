@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Sloth00",
+    "username": "thaone",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "sevencraft.aternos.me",
-    "port": 32328,
+    "ip": "evarastra.aternos.me",
+    "port": 58753,
     "version": "",
     "try-creative": false
   },
